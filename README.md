@@ -28,7 +28,7 @@ Packages used -
 
 ## Instructions to run the website:
 
-[LIVE DEMO VIDEO here] (https://drive.google.com/drive/folders/1i1mDaouQ2OIsPucfIyjGwI2liaoNi8MH?usp=sharing)
+[LIVE DEMO VIDEO here](https://drive.google.com/drive/folders/1i1mDaouQ2OIsPucfIyjGwI2liaoNi8MH?usp=sharing)
 
 Prerequisites: _nodejs (with npm)_ and _mysql_
 
