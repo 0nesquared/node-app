@@ -1,6 +1,6 @@
 # Basic node js - mysql website
 
-A website that displays some information about my favorite CS:GO team - **Astralis**. The user may register and login to access the team details, and a comments section. All of the information about the users and comments
+A website that displays some information about my favorite CS:GO team - **Astralis**. The user may register and login to access the team details and a comments section which is updated using AJAX. All of the information about the users and comments
 will be persisted inside a _mysql_ database.
 
 Other code features -
@@ -16,15 +16,15 @@ Other code features -
 
 Packages used -
 
--   bcryptjs - to hash the passwords
--   dotenv - to configure environment variables
--   express - to configure routes
--   express-session - used in conjunction with connect-flash
--   connect-flash - to enable passing flash messages between page redirects
--   hbs - view engine for this app
--   passport - for authentication
--   passport-local - to use local strategy with passport.js
--   mysql - to use mysql database with the app
+-   **bcryptjs** - to hash the passwords
+-   **dotenv** - to configure environment variables
+-   **express** - to configure routes
+-   **express-session** - used in conjunction with connect-flash
+-   **connect-flash** - to enable passing flash messages between page redirects
+-   **hbs** - view engine for this app
+-   **passport** - for authentication
+-   **passport-local** - to use local strategy with passport.js
+-   **mysql** - to use mysql database with the app
 
 ## Instructions to run the website:
 
