@@ -1,4 +1,4 @@
-# Basic node js - mysql website
+# Full fledged nodejs - mysql - passport authentication app
 
 A website that displays some information about my favorite CS:GO team - **Astralis**. The user may register and login to access the team details and a comments section which is updated using AJAX. All of the information about the users and comments
 will be persisted inside a _mysql_ database.
